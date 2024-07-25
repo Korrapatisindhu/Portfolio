@@ -1,14 +1,13 @@
-# Sreenanda Sai  Data Science Portfolio
-<!-- Sreenanda Sai Portfolio -->
+# Sindhu  Data Science Portfolio
+<!-- Sindhu  Portfolio -->
 
  This portfolio is created using html,css,javascript and Bootstrap.In this portfolio I have added my data science projects, resume, my tech skills and contact information.
     
   ## Team Members :-
-  -Sreenanda Sai
+  -Sindhupriya Korrapati
   
   # Deployed Link :-
-    https://sreenandasai-dasari.github.io/Portfolio
-    
+  https://www.linkedin.com/in/sindhukorrapati/    
   
 
 
