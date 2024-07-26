@@ -7,7 +7,6 @@
   -Sindhupriya Korrapati
   
   # Deployed Link :-
-  https://www.linkedin.com/in/sindhukorrapati/    
-  
+  https://korrapatisindhu.github.io/Portfolio/
 
 
